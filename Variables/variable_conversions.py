@@ -1,9 +1,12 @@
 
-# Convert the following variables:
+# Convert the following variables / data types:
 # string -> integer
 # integet -> string
 class varConversion(object):
 
 
     def toInt(a):
-        return int(a)
+        pass
+
+    def toStr(a):
+        pass
